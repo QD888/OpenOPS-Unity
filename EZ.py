@@ -67,8 +67,8 @@ data = {
 headers = {
     'X-EMC-REST-CLIENT': 'true',
     'Content-Type': "application/json",
-	'Accept': "application/json",
-	'Accept-Language': 'en-US'
+    'Accept': "application/json",
+    'Accept-Language': 'en-US'
 }
 
 url = endpoint + api
